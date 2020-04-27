@@ -6,7 +6,7 @@
 
 >  [GoLand](https://www.jetbrains.com/go/) is a cross-platform IDE aimed at providing an ergonomic environment for Go development. The new IDE extends the IntelliJ platform with the coding assistance and tool integration specific for the Go language.
 
-### AppCode Learning Resources
+### GoLand Learning Resources
 1. [GoLand Overview](https://www.youtube.com/watch?v=DlF6EJurb88&list=PLQ176FUIyIUaXlyMXddbZ7TOdW2Yns4yV&index=3&t=1s)
 2. [Migrating to GoLand from a Code Editor: Tips & Tricks](https://www.youtube.com/watch?v=GDHET-k4zz4&list=PLQ176FUIyIUaXlyMXddbZ7TOdW2Yns4yV&index=5)
 3. [Getting Started with GoLand 1/3: Setup](https://www.youtube.com/watch?v=AufkDPEI2qA&list=PLQ176FUIyIUaXlyMXddbZ7TOdW2Yns4yV&index=6)
